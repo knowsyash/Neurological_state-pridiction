@@ -178,7 +178,7 @@ If you use this code or data, please cite our conference paper (link above).
 
 ## Contact
 For questions or collaboration, contact:
-- yashsinghal@example.com
+- codeknowsyash@gmail.com
 - yashsingh@example.com
 - suddeptisingh@example.com
 
