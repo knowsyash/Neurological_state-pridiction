@@ -10,7 +10,7 @@ This project is based on our accepted conference research paper, presenting a no
 
 For a comprehensive explanation of our methodology, results, and scientific impact, please refer to the full research paper PDF.
 
-**[Download the Conference Paper PDF](#)**  <!-- Replace # with your actual PDF link when available -->
+**[Watch Research Paper](https://docs.google.com/document/d/12XTv6wCwdDkEwzwJfJKrVH0VgtZb_8xhqArM_BUrpVI/edit?usp=sharing)**  <!-- Replace # with your actual PDF link when available -->
 # Research Context & Importance
 This project was conducted as part of a research internship at MANIT Bhopal by Yash Singhal, Yash Singh, and Suddepti Singh. As research interns, we undertook this work to contribute to the advancement of neurological state prediction using machine learning. The project is highly significant due to its real-world impact, academic value, and its role in supporting our conference research paper. Our work at MANIT Bhopal provided us with the resources and mentorship to explore innovative approaches in supervised and semi-supervised learning for physiological data analysis.
 
@@ -27,7 +27,7 @@ Neurological state prediction is crucial for early detection and monitoring of p
 
 ## Conference Paper
 **This repository supports our accepted conference research paper.**
-- [Download PDF](#)  <!-- Replace # with your actual PDF link when available -->
+- [See Word File](https://docs.google.com/document/d/12XTv6wCwdDkEwzwJfJKrVH0VgtZb_8xhqArM_BUrpVI/edit?usp=sharing)  <!-- Replace # with your actual PDF link when available -->
 
 ## Project Objective
 Our main objective is to compare the results and accuracy of supervised learning and semi-supervised learning models for neurological state prediction. We use multiple algorithms (XGBoost, Random Forest, Logistic Regression, Label Spreading) and analyze their performance on physiological datasets. The project observes how different models perform, highlights strengths and weaknesses, and discusses accuracy and findings for each approach.
